@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bfocassio.github.io/sitemap.xml
