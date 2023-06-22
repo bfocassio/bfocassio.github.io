@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data transformation | Bruno Focassio</title>
+    <link>https://bfocassio.github.io/tag/data-transformation/</link>
+      <atom:link href="https://bfocassio.github.io/tag/data-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data transformation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bfocassio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Data transformation</title>
+      <link>https://bfocassio.github.io/tag/data-transformation/</link>
+    </image>
+    
+    <item>
+      <title>Linear Jacobi-Legendre expansion of the charge density for machine learning-accelerated electronic structure calculations</title>
+      <link>https://bfocassio.github.io/project/pub1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/project/pub1/</guid>
+      <description>&lt;p&gt;Kohn–Sham density functional theory (KS-DFT) is a powerful method to obtain key materials’ properties, but the iterative solution of the KS equations is a numerically intensive task, which limits its application to complex systems. To address this issue, machine learning (ML) models can be used as surrogates to find the ground-state charge density and reduce the computational overheads. We develop a grid-centred structural representation, based on Jacobi and Legendre polynomials combined with a linear regression, to accurately learn the converged DFT charge density. This integrates into a ML pipeline that can return any density-dependent observable, including energy and forces, at the quality of a converged DFT calculation, but at a fraction of the computational cost. Fast scanning of energy landscapes and producing starting densities for the DFT self-consistent cycle are among the applications of our scheme.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
