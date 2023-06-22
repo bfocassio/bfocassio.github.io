@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
+    <title>2 | Bruno Focassio</title>
     <link>https://bfocassio.github.io/publication-type/2/</link>
       <atom:link href="https://bfocassio.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bfocassio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,22 +13,107 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://bfocassio.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Connecting Higher-Order Topology with the Orbital Hall Effect in Monolayers of Transition Metal Dichalcogenides</title>
+      <link>https://bfocassio.github.io/publication/2023-01-01_connecting_higher-or/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2023-01-01_connecting_higher-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Jacobi-Legendre Expansion of the Charge Density for Machine Learning-Accelerated Electronic Structure Calculations</title>
+      <link>https://bfocassio.github.io/publication/2023-01-01_linear_jacobi-legend/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2023-01-01_linear_jacobi-legend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Insulating Phase Arising in Transition Metal Dichalcogenide Alloy</title>
+      <link>https://bfocassio.github.io/publication/2023-01-01_topological_insulati/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2023-01-01_topological_insulati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Lignin Sticks to Cellulose-Insights from Atomic Force Microscopy Enhanced by Machine-Learning Analysis and Molecular Dynamics Simulations</title>
+      <link>https://bfocassio.github.io/publication/2022-01-01_how_lignin_sticks_to/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2022-01-01_how_lignin_sticks_to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning of Microscopic Ingredients for Graphene Oxide/Cellulose Interaction</title>
+      <link>https://bfocassio.github.io/publication/2022-01-01_machine_learning_of_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2022-01-01_machine_learning_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability and Rupture of an Ultrathin Ionic Wire</title>
+      <link>https://bfocassio.github.io/publication/2022-01-01_stability_and_ruptur/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2022-01-01_stability_and_ruptur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amorphous Bi2Se3 Structural, Electronic, and Topological Nature from First Principles</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_amorphous_bi2se3_str/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_amorphous_bi2se3_str/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformational Analysis of Tannic Acid: Environment Effects in Electronic and Reactivity Properties</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_conformational_analy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_conformational_analy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorder Effects of Vacancies on the Electronic Transport Properties of Realistic Topological Insulator Nanoribbons: The Case of Bismuthene</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_disorder_effects_of_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_disorder_effects_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Materials Discovery: Two-Dimensional Topological Insulators</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_machine_learning_for/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_machine_learning_for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Electronic Properties of Realistic Two-Dimensional Amorphous Topological Insulators</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_structural_and_elect/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_structural_and_elect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Topological Insulator Device with Disorder Robustness</title>
+      <link>https://bfocassio.github.io/publication/2020-01-01_dual_topological_ins/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2020-01-01_dual_topological_ins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of Nitrogen Doped Graphene Bilayers Synthesized by Fast, Low Temperature Microwave Plasma-Enhanced Chemical Vapour Deposition</title>
+      <link>https://bfocassio.github.io/publication/2019-01-01_characterization_of_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2019-01-01_characterization_of_/</guid>
+      <description></description>
     </item>
     
   </channel>

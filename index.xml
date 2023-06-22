@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Bruno Focassio</title>
     <link>https://bfocassio.github.io/</link>
       <atom:link href="https://bfocassio.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Bruno Focassio</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bfocassio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Bruno Focassio</title>
       <link>https://bfocassio.github.io/</link>
     </image>
     
@@ -30,6 +30,94 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Connecting Higher-Order Topology with the Orbital Hall Effect in Monolayers of Transition Metal Dichalcogenides</title>
+      <link>https://bfocassio.github.io/publication/2023-01-01_connecting_higher-or/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2023-01-01_connecting_higher-or/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Jacobi-Legendre Expansion of the Charge Density for Machine Learning-Accelerated Electronic Structure Calculations</title>
+      <link>https://bfocassio.github.io/publication/2023-01-01_linear_jacobi-legend/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2023-01-01_linear_jacobi-legend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Insulating Phase Arising in Transition Metal Dichalcogenide Alloy</title>
+      <link>https://bfocassio.github.io/publication/2023-01-01_topological_insulati/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2023-01-01_topological_insulati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Lignin Sticks to Cellulose-Insights from Atomic Force Microscopy Enhanced by Machine-Learning Analysis and Molecular Dynamics Simulations</title>
+      <link>https://bfocassio.github.io/publication/2022-01-01_how_lignin_sticks_to/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2022-01-01_how_lignin_sticks_to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning of Microscopic Ingredients for Graphene Oxide/Cellulose Interaction</title>
+      <link>https://bfocassio.github.io/publication/2022-01-01_machine_learning_of_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2022-01-01_machine_learning_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability and Rupture of an Ultrathin Ionic Wire</title>
+      <link>https://bfocassio.github.io/publication/2022-01-01_stability_and_ruptur/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2022-01-01_stability_and_ruptur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amorphous Bi2Se3 Structural, Electronic, and Topological Nature from First Principles</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_amorphous_bi2se3_str/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_amorphous_bi2se3_str/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformational Analysis of Tannic Acid: Environment Effects in Electronic and Reactivity Properties</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_conformational_analy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_conformational_analy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorder Effects of Vacancies on the Electronic Transport Properties of Realistic Topological Insulator Nanoribbons: The Case of Bismuthene</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_disorder_effects_of_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_disorder_effects_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Materials Discovery: Two-Dimensional Topological Insulators</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_machine_learning_for/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_machine_learning_for/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Electronic Properties of Realistic Two-Dimensional Amorphous Topological Insulators</title>
+      <link>https://bfocassio.github.io/publication/2021-01-01_structural_and_elect/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2021-01-01_structural_and_elect/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -110,6 +198,14 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Dual Topological Insulator Device with Disorder Robustness</title>
+      <link>https://bfocassio.github.io/publication/2020-01-01_dual_topological_ins/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2020-01-01_dual_topological_ins/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -216,7 +312,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-752196348&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-389167425&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +322,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-752196348&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-389167425&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -507,20 +603,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://bfocassio.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://bfocassio.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -705,6 +787,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Characterization of Nitrogen Doped Graphene Bilayers Synthesized by Fast, Low Temperature Microwave Plasma-Enhanced Chemical Vapour Deposition</title>
+      <link>https://bfocassio.github.io/publication/2019-01-01_characterization_of_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/publication/2019-01-01_characterization_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How lignin sticks to cellulose—insights from atomic force microscopy enhanced by machine-learning analysis and molecular dynamics simulations</title>
       <link>https://bfocassio.github.io/project/pub2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -753,44 +843,6 @@ $$&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://bfocassio.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://bfocassio.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

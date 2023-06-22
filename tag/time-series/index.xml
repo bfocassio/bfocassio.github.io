@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Time series | Academic</title>
+    <title>Time series | Bruno Focassio</title>
     <link>https://bfocassio.github.io/tag/time-series/</link>
       <atom:link href="https://bfocassio.github.io/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time series</description>
