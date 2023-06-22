@@ -5,7 +5,7 @@
     <link>https://bfocassio.github.io/tag/time-series/</link>
       <atom:link href="https://bfocassio.github.io/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time series</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bfocassio.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Time series</title>
@@ -15,7 +15,7 @@
     <item>
       <title>How lignin sticks to cellulose—insights from atomic force microscopy enhanced by machine-learning analysis and molecular dynamics simulations</title>
       <link>https://bfocassio.github.io/project/pub2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://bfocassio.github.io/project/pub2/</guid>
       <description>&lt;p&gt;Elucidating cellulose–lignin interactions at the molecular and nanometric scales is an important research topic with impacts on several pathways of biomass valorization. Here, the interaction forces between a cellulosic substrate and lignin are investigated. Atomic force microscopy with lignin-coated tips is employed to probe the site-specific adhesion to a cellulose film in liquid water. Over seven thousand force-curves are analyzed by a machine-learning approach to cluster the experimental data into types of cellulose-tip interactions. The molecular mechanisms for distinct types of cellulose–lignin interactions are revealed by molecular dynamics simulations of lignin globules interacting with different cellulose Iβ crystal facets. This unique combination of experimental force-curves, data-driven analysis, and molecular simulations opens a new approach of investigation and updates the understanding of cellulose–lignin interactions at the nanoscale.&lt;/p&gt;
 </description>

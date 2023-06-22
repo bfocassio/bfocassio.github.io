@@ -33,6 +33,42 @@
     </item>
     
     <item>
+      <title>How lignin sticks to cellulose—insights from atomic force microscopy enhanced by machine-learning analysis and molecular dynamics simulations</title>
+      <link>https://bfocassio.github.io/project/pub2/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/project/pub2/</guid>
+      <description>&lt;p&gt;Elucidating cellulose–lignin interactions at the molecular and nanometric scales is an important research topic with impacts on several pathways of biomass valorization. Here, the interaction forces between a cellulosic substrate and lignin are investigated. Atomic force microscopy with lignin-coated tips is employed to probe the site-specific adhesion to a cellulose film in liquid water. Over seven thousand force-curves are analyzed by a machine-learning approach to cluster the experimental data into types of cellulose-tip interactions. The molecular mechanisms for distinct types of cellulose–lignin interactions are revealed by molecular dynamics simulations of lignin globules interacting with different cellulose Iβ crystal facets. This unique combination of experimental force-curves, data-driven analysis, and molecular simulations opens a new approach of investigation and updates the understanding of cellulose–lignin interactions at the nanoscale.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Jacobi-Legendre expansion of the charge density for machine learning-accelerated electronic structure calculations</title>
+      <link>https://bfocassio.github.io/project/pub1/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/project/pub1/</guid>
+      <description>&lt;p&gt;Kohn–Sham density functional theory (KS-DFT) is a powerful method to obtain key materials’ properties, but the iterative solution of the KS equations is a numerically intensive task, which limits its application to complex systems. To address this issue, machine learning (ML) models can be used as surrogates to find the ground-state charge density and reduce the computational overheads. We develop a grid-centred structural representation, based on Jacobi and Legendre polynomials combined with a linear regression, to accurately learn the converged DFT charge density. This integrates into a ML pipeline that can return any density-dependent observable, including energy and forces, at the quality of a converged DFT calculation, but at a fraction of the computational cost. Fast scanning of energy landscapes and producing starting densities for the DFT self-consistent cycle are among the applications of our scheme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning for materials discovery: Two-dimensional topological insulators</title>
+      <link>https://bfocassio.github.io/project/pub3/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/project/pub3/</guid>
+      <description>&lt;p&gt;One of the main goals and challenges of materials discovery is to find the best candidates for each interest property or application. Machine learning rises in this context to efficiently optimize this search, exploring the immense materials space, consisting of simultaneously the atomic, compositional, and structural spaces. Topological insulators, presenting symmetry-protected metallic edge states, are a promising class of materials for different applications. However, further development is limited by the scarcity of viable candidates. Here we present and discuss machine learning–accelerated strategies for searching the materials space for two-dimensional topological materials. We show the importance of detailed investigations of each machine learning component, leading to different results. Using recently created databases containing thousands of ab initio calculations of 2D materials, we train machine learning models capable of determining the electronic topology of materials, with an accuracy of over 90%. We can then generate and screen thousands of novel materials, efficiently predicting their topological character without the need for a priori structural knowledge. We discover 56 non-trivial materials, of which 17 are novel insulating candidates for further investigation, for which we corroborate their topological properties with density functional theory calculations. This strategy is 10× more efficient than the trial-and-error approach while a few orders of magnitude faster and is a proof of concept for guiding improved materials discovery search strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning of microscopic ingredients for graphene oxide/cellulose interaction</title>
+      <link>https://bfocassio.github.io/project/pub4/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bfocassio.github.io/project/pub4/</guid>
+      <description>&lt;p&gt;Understanding the role of microscopic attributes in nanocomposites allows one to control and, therefore, accelerate experimental system designs. In this work, we extracted the relevant parameters controlling the graphene oxide binding strength to cellulose by combining first-principles calculations and machine learning algorithms. We were able to classify the systems among two classes with higher and lower binding energies, which are well defined based on the isolated graphene oxide features. Using theoretical X-ray photoelectron spectroscopy analysis, we show the extraction of these relevant features. In addition, we demonstrate the possibility of refined control within a machine learning regression between the binding energy values and the system’s characteristics. Our work presents a guiding map to control graphene oxide/cellulose interaction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Connecting Higher-Order Topology with the Orbital Hall Effect in Monolayers of Transition Metal Dichalcogenides</title>
       <link>https://bfocassio.github.io/publication/2023-01-01_connecting_higher-or/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -312,7 +348,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-741528639&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-537149286&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -322,7 +358,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-741528639&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-537149286&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -792,42 +828,6 @@ $$&lt;/p&gt;
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://bfocassio.github.io/publication/2019-01-01_characterization_of_/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>How lignin sticks to cellulose—insights from atomic force microscopy enhanced by machine-learning analysis and molecular dynamics simulations</title>
-      <link>https://bfocassio.github.io/project/pub2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/project/pub2/</guid>
-      <description>&lt;p&gt;Elucidating cellulose–lignin interactions at the molecular and nanometric scales is an important research topic with impacts on several pathways of biomass valorization. Here, the interaction forces between a cellulosic substrate and lignin are investigated. Atomic force microscopy with lignin-coated tips is employed to probe the site-specific adhesion to a cellulose film in liquid water. Over seven thousand force-curves are analyzed by a machine-learning approach to cluster the experimental data into types of cellulose-tip interactions. The molecular mechanisms for distinct types of cellulose–lignin interactions are revealed by molecular dynamics simulations of lignin globules interacting with different cellulose Iβ crystal facets. This unique combination of experimental force-curves, data-driven analysis, and molecular simulations opens a new approach of investigation and updates the understanding of cellulose–lignin interactions at the nanoscale.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linear Jacobi-Legendre expansion of the charge density for machine learning-accelerated electronic structure calculations</title>
-      <link>https://bfocassio.github.io/project/pub1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/project/pub1/</guid>
-      <description>&lt;p&gt;Kohn–Sham density functional theory (KS-DFT) is a powerful method to obtain key materials’ properties, but the iterative solution of the KS equations is a numerically intensive task, which limits its application to complex systems. To address this issue, machine learning (ML) models can be used as surrogates to find the ground-state charge density and reduce the computational overheads. We develop a grid-centred structural representation, based on Jacobi and Legendre polynomials combined with a linear regression, to accurately learn the converged DFT charge density. This integrates into a ML pipeline that can return any density-dependent observable, including energy and forces, at the quality of a converged DFT calculation, but at a fraction of the computational cost. Fast scanning of energy landscapes and producing starting densities for the DFT self-consistent cycle are among the applications of our scheme.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Machine learning for materials discovery: Two-dimensional topological insulators</title>
-      <link>https://bfocassio.github.io/project/pub3/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/project/pub3/</guid>
-      <description>&lt;p&gt;One of the main goals and challenges of materials discovery is to find the best candidates for each interest property or application. Machine learning rises in this context to efficiently optimize this search, exploring the immense materials space, consisting of simultaneously the atomic, compositional, and structural spaces. Topological insulators, presenting symmetry-protected metallic edge states, are a promising class of materials for different applications. However, further development is limited by the scarcity of viable candidates. Here we present and discuss machine learning–accelerated strategies for searching the materials space for two-dimensional topological materials. We show the importance of detailed investigations of each machine learning component, leading to different results. Using recently created databases containing thousands of ab initio calculations of 2D materials, we train machine learning models capable of determining the electronic topology of materials, with an accuracy of over 90%. We can then generate and screen thousands of novel materials, efficiently predicting their topological character without the need for a priori structural knowledge. We discover 56 non-trivial materials, of which 17 are novel insulating candidates for further investigation, for which we corroborate their topological properties with density functional theory calculations. This strategy is 10× more efficient than the trial-and-error approach while a few orders of magnitude faster and is a proof of concept for guiding improved materials discovery search strategies.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Machine learning of microscopic ingredients for graphene oxide/cellulose interaction</title>
-      <link>https://bfocassio.github.io/project/pub4/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bfocassio.github.io/project/pub4/</guid>
-      <description>&lt;p&gt;Understanding the role of microscopic attributes in nanocomposites allows one to control and, therefore, accelerate experimental system designs. In this work, we extracted the relevant parameters controlling the graphene oxide binding strength to cellulose by combining first-principles calculations and machine learning algorithms. We were able to classify the systems among two classes with higher and lower binding energies, which are well defined based on the isolated graphene oxide features. Using theoretical X-ray photoelectron spectroscopy analysis, we show the extraction of these relevant features. In addition, we demonstrate the possibility of refined control within a machine learning regression between the binding energy values and the system’s characteristics. Our work presents a guiding map to control graphene oxide/cellulose interaction.&lt;/p&gt;
-</description>
     </item>
     
     <item>
